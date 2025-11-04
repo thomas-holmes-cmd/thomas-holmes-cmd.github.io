@@ -1,0 +1,59 @@
+h1{
+	color: blue;
+	font-family: "Arial",sans-serif;
+	text-align: center;
+}
+	
+h3{
+	font-weight: bold;
+}
+h2{
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+img{
+	height: 250px;
+	display: block;
+    margin: 0 auto;
+	display: flex
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+a{
+	background-color: yellow
+}
+hr{
+	border: none;
+	height: 3px;
+	background-color: black;
+}
+.controler{
+	width: 300px;
+	
+}
+.shoes{
+	width: 350px;
+	
+}
+.container{
+	display: grid;
+ align-items: center; 
+ grid-template-columns: 1fr 1fr 1fr;
+ column-gap: 5px;
+}
+.container2{
+	direction: rtl;
+	display: grid;
+ align-items: center; 
+ grid-template-columns: 1fr 1fr 1fr;
+ column-gap: 5px;
+}
