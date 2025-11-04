@@ -1,8 +1,8 @@
+# thomas-holmes-cmd.github.io
 <!DOCTYPE html>
 <html>
 <head>
 		<meta charset="UTF-8">
-		<title>My Website</title>
 		<link rel="stylesheet" href="Style Gen.css">
 		<link rel="stylesheet" href="Style Spec.css">
 </head>
